@@ -7,7 +7,7 @@ import android.util.Log
 class MainActivity : AppCompatActivity() {
 
     companion object {
-        private const val TAG = "MainActivity"
+        private const val TAG = "MainActivity" 
     }
 
 
